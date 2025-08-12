@@ -580,8 +580,8 @@ This project has shaped my understanding of **real-world analytics** and is a **
 
 For any queries or feedback, feel free to reach out:
 
-- **Name**: Suyash Pathak
-- **Email**: suyashpathaktechnical@gmail.com
+- **Name**: Harendra Bhadoriya
+- **Email**: Bhadoriya.harendra01@gmail.com
 
 
 
